@@ -1,0 +1,17 @@
+{
+  "name": "garbage-collection",
+  "version": "1.0.0",
+  "description": "Garbage collection schedule at Jingumae 5, Shibuya",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "author": "Ryo Murayama <ryo@uniba.jp>",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.11.2"
+  },
+  "devDependencies": {
+    "mocha": "^2.4.5"
+  }
+}
